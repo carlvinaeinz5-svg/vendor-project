@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" rx="28" fill="#edf6ef"/>
+  <circle cx="400" cy="275" r="115" fill="#d9eadc"/>
+  <path d="M325 245h150l-16 132H341l-16-132Z" fill="#24704c"/>
+  <path d="M355 245c0-32 19-54 45-54s45 22 45 54" fill="none" stroke="#24704c" stroke-linecap="round" stroke-width="16"/>
+  <path d="M400 214c-31-39-69-27-68 5 1 27 38 43 68 43 30 0 67-16 68-43 1-32-37-44-68-5Z" fill="#e9a23b"/>
+  <path d="M400 226v34" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+  <text x="400" y="435" fill="#19352a" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="middle">Product photo coming soon</text>
+</svg>
